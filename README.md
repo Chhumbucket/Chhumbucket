@@ -34,12 +34,6 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<!--
-### 🔥 Latest Mobile Dev Articles
-- [Building Smooth Animations in SwiftUI](YOUR_BLOG_LINK)
-- [Implementing Clean Architecture in Android](YOUR_BLOG_LINK)
-- [State Management Patterns in Flutter](YOUR_BLOG_LINK)
--->
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/Chhumbucket)
@@ -48,12 +42,11 @@
 ```javascript
 const mobileDev = {
     ios: ['Xcode', 'Swift', 'SwiftUI', 'UIKit', 'CoreData'],
-    android: ['Android Studio', 'Kotlin', 'Jetpack Compose', 'Room'],
-    crossPlatform: ['Flutter', 'React Native'],
-    architecture: ['MVVM', 'Clean Architecture', 'MVI'],
-    testing: ['XCTest', 'JUnit', 'Espresso'],
-    cicd: ['Fastlane', 'GitHub Actions', 'Bitrise'],
-    analytics: ['Firebase', 'Mixpanel', 'AppsFlyer']
+    android: ['Android Studio', 'Kotlin'],
+    crossPlatform: ['React Native'],
+    architecture: ['MVVM', 'MVI'],
+    testing: ['XCTest', 'JUnit'],
+    analytics: ['Firebase']
 };
 ```
 <!--
