@@ -2,12 +2,12 @@
 <h1 align="center">📱 Hi, I'm [Your Name]!</h1>
 <p align="center">Welcome to my phone-inspired GitHub profile! 🌟</p>
 
-<!-- Mock Phone Frame -->
+<!-- Phone Frame -->
 <p align="center">
-  <img src="https://via.placeholder.com/250x500?text=Phone+Screen" alt="Phone Mockup" width="250" />
+  <img src="https://github.com/yourusername/yourrepository/raw/main/path-to-phone-image.png" alt="Phone Frame" width="250" />
 </p>
 
-<!-- App Icons (Buttons) -->
+<!-- Buttons Section -->
 <p align="center">
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
@@ -18,16 +18,4 @@
   <a href="https://linkedin.com/in/yourusername">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<!-- Navigation Links -->
-<p align="center">
-  <a href="#home">🏠 Home</a> | 
-  <a href="#projects">📂 Projects</a> | 
-  <a href="#contact">📞 Contact</a>
 </p>
