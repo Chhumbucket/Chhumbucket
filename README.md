@@ -13,18 +13,8 @@
   <tr>
     <td align="center">
       <img src="APP_SCREENSHOT_1" width="200"><br/>
-      <b>App Name 1</b><br/>
-      <sub>📱 Available on <a href="APPSTORE_LINK">App Store</a> & <a href="PLAYSTORE_LINK">Play Store</a></sub>
-    </td>
-    <td align="center">
-      <img src="APP_SCREENSHOT_2" width="200"><br/>
-      <b>App Name 2</b><br/>
-      <sub>💫 Featured in Play Store's Editor's Choice</sub>
-    </td>
-    <td align="center">
-      <img src="APP_SCREENSHOT_3" width="200"><br/>
-      <b>App Name 3</b><br/>
-      <sub>⭐ 100K+ Downloads</sub>
+      <b> Berkeley Mobile</b><br/>
+      <sub>📱 Available on <a href="https://apps.apple.com/us/app/berkeley-mobile/id912243518">App Store</a> </sub>
     </td>
   </tr>
 </table>
@@ -36,7 +26,7 @@
 
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/Chhumbucket)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chhum/)
 
 ### 📱 Mobile Development Tools
 ```javascript
