@@ -39,7 +39,7 @@
 ### 📱 Mobile Development Tools
 ```javascript
 const mobileDev = {
-    ios: ['Xcode', 'Swift', 'SwiftUI', 'UIKit', 'CoreData'],
+    ios: ['Xcode', 'Swift', 'SwiftUI', 'UIKit', 'CoreData', 'SwiftData'],
     android: ['Android Studio', 'Kotlin'],
     crossPlatform: ['React Native'],
     architecture: ['MVVM', 'MVI'],
